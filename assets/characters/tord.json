@@ -1,0 +1,117 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "TordIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-240,
+				159
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TordUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				-13
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TordDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				28
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TordLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-11
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TordRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "TordIdle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				0,
+				15
+			],
+			"loop": false,
+			"anim": "pissed",
+			"fps": 24,
+			"name": "TordPissed",
+			"indices": []
+		}
+	],
+	"image": "characters/tord",
+	"scale": 2.000000000000001,
+	"sing_duration": 4,
+	"healthicon": "tord",
+	"position": [
+		0,
+		-1610
+	],
+	"camera_position": [
+		-640,
+		-360
+	],
+	"flip_x": false,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		217,
+		18,
+		76
+	]
+}

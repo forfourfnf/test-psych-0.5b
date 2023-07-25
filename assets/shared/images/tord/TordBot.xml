@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TordBot.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TordBot instance 10000" x="11" y="11" width="766" height="664" frameX="0" frameY="-1" frameWidth="766" frameHeight="665"/>
+	<SubTexture name="TordBot instance 10001" x="11" y="11" width="766" height="664" frameX="0" frameY="-1" frameWidth="766" frameHeight="665"/>
+	<SubTexture name="TordBot instance 10002" x="798" y="11" width="766" height="665"/>
+	<SubTexture name="TordBot instance 10003" x="798" y="11" width="766" height="665"/>
+</TextureAtlas>

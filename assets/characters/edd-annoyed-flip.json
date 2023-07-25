@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-8,
+				-10
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "EddSideIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-27,
+				27
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EddSideUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				-71
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EddSideDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				-6
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EddSideLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				-9
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EddSideRight",
+			"indices": []
+		}
+	],
+	"image": "characters/eddannoy",
+	"scale": 1,
+	"sing_duration": 4,
+	"healthicon": "edd",
+	"position": [
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"flip_x": true,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	]
+}

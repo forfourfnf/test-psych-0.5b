@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jon.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JohnIdle instance 10000" x="11" y="11" width="327" height="600" frameX="-3" frameY="-7" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10001" x="11" y="11" width="327" height="600" frameX="-3" frameY="-7" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10002" x="359" y="11" width="323" height="603" frameX="-3" frameY="-5" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10003" x="359" y="11" width="323" height="603" frameX="-3" frameY="-5" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10004" x="703" y="11" width="327" height="606" frameX="0" frameY="-1" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10005" x="703" y="11" width="327" height="606" frameX="0" frameY="-1" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10006" x="1051" y="11" width="325" height="608" frameX="-1" frameY="0" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10007" x="1051" y="11" width="325" height="608" frameX="-1" frameY="0" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10008" x="1397" y="11" width="327" height="607" frameX="0" frameY="0" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10009" x="1397" y="11" width="327" height="607" frameX="0" frameY="0" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10010" x="11" y="640" width="325" height="608" frameX="-1" frameY="0" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10011" x="11" y="640" width="325" height="608" frameX="-1" frameY="0" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10012" x="1397" y="11" width="327" height="607" frameX="0" frameY="0" frameWidth="330" frameHeight="608"/>
+	<SubTexture name="JohnIdle instance 10013" x="1397" y="11" width="327" height="607" frameX="0" frameY="0" frameWidth="330" frameHeight="608"/>
+</TextureAtlas>

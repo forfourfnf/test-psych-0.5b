@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["challengedd", "edd", [51, 173, 51]],
+                ["unloaded", "uberkid", [40, 95, 168]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "ChallengEdd",
+        "difficulties": "fucked, hard",
+	"weekBefore": "tutorial",
+	"weekName": "Week 7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

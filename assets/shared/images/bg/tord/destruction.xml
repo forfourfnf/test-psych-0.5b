@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="destruction.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TordBotBlowingUp instance 10000" x="11" y="11" width="766" height="664" frameX="-455" frameY="-179" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10001" x="798" y="11" width="766" height="664" frameX="-455" frameY="-179" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10002" x="11" y="11" width="766" height="664" frameX="-455" frameY="-179" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10003" x="798" y="11" width="766" height="664" frameX="-455" frameY="-179" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10004" x="1585" y="11" width="748" height="690" frameX="-460" frameY="-163" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10005" x="1585" y="11" width="748" height="690" frameX="-460" frameY="-163" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10006" x="2354" y="11" width="771" height="753" frameX="-443" frameY="-87" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10007" x="2354" y="11" width="771" height="753" frameX="-443" frameY="-87" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10008" x="3146" y="11" width="1412" height="733" frameX="-181" frameY="-57" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10009" x="4579" y="11" width="1685" height="790" frameX="-40" frameY="0" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10010" x="6285" y="11" width="1685" height="790" frameX="-40" frameY="0" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10011" x="11" y="822" width="1732" height="822" frameX="0" frameY="-4" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10012" x="1764" y="822" width="1732" height="822" frameX="0" frameY="-4" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10013" x="3517" y="822" width="1435" height="733" frameX="-56" frameY="-57" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10014" x="3517" y="822" width="1435" height="733" frameX="-56" frameY="-57" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10015" x="4973" y="822" width="1384" height="733" frameX="-34" frameY="-57" frameWidth="1732" frameHeight="853"/>
+	<SubTexture name="TordBotBlowingUp instance 10016" x="4973" y="822" width="1384" height="733" frameX="-34" frameY="-57" frameWidth="1732" frameHeight="853"/>
+</TextureAtlas>
