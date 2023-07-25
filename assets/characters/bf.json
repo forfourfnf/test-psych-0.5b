@@ -3,17 +3,6 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				5,
 				-6
 			],
@@ -47,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-48,
+				172,
 				-7
 			],
 			"anim": "singRIGHT",
@@ -102,8 +91,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-3,
-				5
+				147,
+				45
 			],
 			"anim": "hey",
 			"fps": 24,
@@ -179,10 +168,10 @@
 		{
 			"loop": false,
 			"offsets": [
-				294,
-				267
+				180,
+				230
 			],
-			"anim": "attack",
+			"anim": "slash",
 			"fps": 24,
 			"name": "boyfriend attack",
 			"indices": []
@@ -190,10 +179,21 @@
 		{
 			"loop": false,
 			"offsets": [
-				-40,
+				-20,
 				-40
 			],
 			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-40
+			],
+			"anim": "idle",
 			"fps": 24,
 			"name": "bf pre attack",
 			"indices": []
